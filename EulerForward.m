@@ -11,3 +11,4 @@ function intValueNew = EulerForward(intOldValue, functionValue, timeStep)
     intValueNew = intOldValue + functionValue * timeStep;
     
 end
+% yolo life is nice.
